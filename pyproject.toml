@@ -1,0 +1,21 @@
+[project]
+name = "tabular-inference-prototype"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi>=0.143.1",
+    "ipykernel>=7.4.0",
+    "pandas>=3.0.6",
+    "python-multipart>=0.0.32",
+    "tabicl>=2.2.0",
+    "uvicorn>=0.54.0",
+]
+
+[project.scripts]
+tabular-inference-prototype = "tabular_inference_prototype:main"
+
+[build-system]
+requires = ["uv_build>=0.12.23,<0.13.0"]
+build-backend = "uv_build"
