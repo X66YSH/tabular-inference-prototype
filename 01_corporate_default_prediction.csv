@@ -1,0 +1,521 @@
+﻿firm_id,industry,region,employees,debt_to_assets,interest_coverage,cash_ratio,revenue_growth_pct,default
+FIRM-00001,Manufacturing,Ontario,60,0.586,1.5,0.189,-11.0,
+FIRM-00002,Technology,Quebec,2324,0.309,2.76,0.281,-24.4,1
+FIRM-00003,Healthcare,Ontario,1006,0.534,1.79,0.942,3.4,0
+FIRM-00004,Manufacturing,Ontario,126,0.122,1.15,0.699,24.5,0
+FIRM-00005,Retail,Quebec,303,0.546,1.02,0.364,25.0,0
+FIRM-00006,Manufacturing,Ontario,46,0.591,0.35,0.115,37.7,1
+FIRM-00007,Retail,Atlantic,71,0.411,2.04,0.556,9.7,0
+FIRM-00008,Retail,Quebec,33,0.591,16.0,0.161,5.5,0
+FIRM-00009,Manufacturing,Ontario,49,0.855,0.91,0.146,-25.7,0
+FIRM-00010,Logistics,Quebec,163,0.312,0.71,0.98,-29.9,0
+FIRM-00011,Logistics,Quebec,216,0.239,9.26,0.606,-7.6,0
+FIRM-00012,Retail,Ontario,61,0.542,0.42,0.271,-15.6,
+FIRM-00013,Retail,Ontario,158,0.492,1.69,0.564,11.4,0
+FIRM-00014,Technology,British Columbia,24,0.572,4.75,0.148,-8.9,
+FIRM-00015,Retail,Quebec,128,0.631,1.07,0.232,-20.0,
+FIRM-00016,Healthcare,Alberta,61,0.532,0.29,0.348,14.1,0
+FIRM-00017,Energy,British Columbia,145,0.885,0.54,0.282,19.0,
+FIRM-00018,Retail,Alberta,169,0.716,4.48,0.593,-5.0,
+FIRM-00019,Technology,Ontario,303,0.572,4.23,0.459,-12.9,0
+FIRM-00020,Logistics,Ontario,385,0.584,2.96,0.535,12.0,0
+FIRM-00021,Manufacturing,British Columbia,290,0.55,2.55,0.122,-1.7,0
+FIRM-00022,Manufacturing,Ontario,320,0.64,1.6,0.47,17.5,
+FIRM-00023,Manufacturing,British Columbia,74,0.142,0.34,0.651,37.7,0
+FIRM-00024,Technology,Ontario,557,0.376,0.42,0.642,16.4,0
+FIRM-00025,Healthcare,Ontario,51,0.657,4.58,0.419,27.4,
+FIRM-00026,Technology,Quebec,307,0.481,1.26,0.67,19.1,0
+FIRM-00027,Retail,British Columbia,838,0.384,0.33,0.506,12.7,0
+FIRM-00028,Healthcare,Atlantic,33,0.588,0.87,0.239,-21.6,0
+FIRM-00029,Technology,Ontario,28,0.717,0.78,0.565,21.2,
+FIRM-00030,Technology,Ontario,188,0.266,1.7,0.636,7.3,0
+FIRM-00031,Manufacturing,Ontario,206,0.623,0.4,0.57,-5.6,
+FIRM-00032,Manufacturing,Quebec,141,0.479,2.4,0.438,3.9,0
+FIRM-00033,Technology,Quebec,92,0.417,2.16,0.909,16.8,0
+FIRM-00034,Manufacturing,Atlantic,219,0.632,5.47,0.205,17.6,0
+FIRM-00035,Retail,Atlantic,15,0.474,1.88,0.685,-7.7,0
+FIRM-00036,Manufacturing,Ontario,384,0.531,0.67,0.417,25.9,0
+FIRM-00037,Manufacturing,Ontario,362,0.52,7.92,0.851,-0.3,0
+FIRM-00038,Energy,Ontario,49,0.424,2.08,0.29,16.9,0
+FIRM-00039,Manufacturing,Atlantic,92,0.584,1.91,0.033,2.4,
+FIRM-00040,Manufacturing,Ontario,276,0.571,8.9,0.579,-6.9,0
+FIRM-00041,Technology,Alberta,748,0.496,4.33,0.435,16.1,0
+FIRM-00042,Healthcare,British Columbia,344,0.287,5.39,0.285,-32.6,
+FIRM-00043,Logistics,Alberta,133,0.439,1.7,0.441,-4.5,0
+FIRM-00044,Healthcare,Ontario,650,0.64,1.12,0.334,12.5,1
+FIRM-00045,Technology,Ontario,83,0.706,2.7,0.17,5.3,1
+FIRM-00046,Manufacturing,Ontario,80,0.236,0.76,0.575,-32.0,0
+FIRM-00047,Retail,Alberta,177,0.595,2.06,0.424,-14.5,0
+FIRM-00048,Retail,Quebec,234,0.372,3.04,0.445,-12.7,0
+FIRM-00049,Logistics,Ontario,69,0.352,1.02,0.374,-5.9,
+FIRM-00050,Technology,Quebec,41,0.265,0.26,0.687,-0.1,0
+FIRM-00051,Retail,Ontario,128,0.157,0.8,0.704,15.4,
+FIRM-00052,Healthcare,Quebec,56,0.586,1.31,0.147,38.4,1
+FIRM-00053,Manufacturing,Ontario,138,0.63,1.26,0.572,39.4,
+FIRM-00054,Manufacturing,British Columbia,129,0.623,0.74,0.264,-6.7,1
+FIRM-00055,Healthcare,British Columbia,82,0.233,4.4,0.027,-6.6,0
+FIRM-00056,Healthcare,Quebec,36,0.885,1.05,0.379,20.0,0
+FIRM-00057,Retail,British Columbia,248,0.749,3.84,0.428,6.0,0
+FIRM-00058,Technology,Quebec,72,0.566,1.64,0.289,0.0,0
+FIRM-00059,Technology,Alberta,15,0.549,1.27,0.463,28.7,0
+FIRM-00060,Retail,Ontario,76,0.767,3.11,0.767,33.5,0
+FIRM-00061,Manufacturing,Ontario,280,0.702,1.78,0.348,20.2,1
+FIRM-00062,Manufacturing,Ontario,38,0.381,0.51,0.41,12.2,0
+FIRM-00063,Technology,Alberta,62,0.229,8.6,0.539,-16.0,0
+FIRM-00064,Retail,British Columbia,85,0.717,4.53,0.402,-6.7,0
+FIRM-00065,Retail,Atlantic,515,0.619,0.1,0.152,17.8,0
+FIRM-00066,Logistics,Ontario,365,0.41,1.35,0.548,13.3,0
+FIRM-00067,Retail,Ontario,400,0.509,5.58,0.367,-30.0,0
+FIRM-00068,Manufacturing,Alberta,102,0.158,2.84,0.095,-2.8,0
+FIRM-00069,Healthcare,Quebec,155,0.537,0.94,0.048,23.9,
+FIRM-00070,Manufacturing,Quebec,95,0.752,3.91,0.748,23.0,0
+FIRM-00071,Retail,Ontario,450,0.234,0.85,0.265,-22.7,0
+FIRM-00072,Manufacturing,British Columbia,327,0.447,1.12,0.98,-44.6,0
+FIRM-00073,Manufacturing,Quebec,262,0.347,7.71,0.391,-2.5,0
+FIRM-00074,Retail,Ontario,200,0.517,0.19,0.428,-1.8,0
+FIRM-00075,Technology,Ontario,49,0.197,2.66,0.547,-14.4,0
+FIRM-00076,Logistics,Atlantic,50,0.791,0.86,0.572,-4.0,0
+FIRM-00077,Healthcare,British Columbia,45,0.3,0.44,0.98,24.7,
+FIRM-00078,Logistics,Atlantic,61,0.617,9.88,0.98,-17.5,0
+FIRM-00079,Manufacturing,Ontario,68,0.139,0.69,0.531,-8.1,
+FIRM-00080,Technology,Alberta,67,0.58,5.4,0.031,40.6,
+FIRM-00081,Manufacturing,British Columbia,1065,0.435,3.37,0.815,11.3,0
+FIRM-00082,Energy,Ontario,89,0.367,1.38,0.755,-25.6,0
+FIRM-00083,Logistics,Alberta,50,0.394,4.88,0.332,29.7,0
+FIRM-00084,Technology,British Columbia,87,0.31,2.17,0.359,14.8,0
+FIRM-00085,Retail,Quebec,160,0.388,4.04,0.742,13.8,
+FIRM-00086,Healthcare,Ontario,138,0.463,2.93,0.624,10.0,0
+FIRM-00087,Logistics,Ontario,134,0.371,0.87,0.533,34.0,
+FIRM-00088,Manufacturing,Alberta,49,0.482,2.6,0.929,11.5,0
+FIRM-00089,Manufacturing,Ontario,521,0.447,5.9,0.528,-10.3,0
+FIRM-00090,Technology,British Columbia,247,0.217,1.98,0.484,2.6,0
+FIRM-00091,Manufacturing,Quebec,304,0.469,1.68,0.095,16.8,0
+FIRM-00092,Logistics,Ontario,152,0.385,3.19,0.459,0.7,0
+FIRM-00093,Energy,Ontario,54,0.887,1.23,0.568,-3.8,0
+FIRM-00094,Healthcare,Atlantic,75,0.485,3.54,0.654,17.3,0
+FIRM-00095,Energy,Alberta,85,0.173,0.47,0.087,25.8,0
+FIRM-00096,Manufacturing,Ontario,133,0.592,4.61,0.98,16.9,0
+FIRM-00097,Technology,British Columbia,22,0.21,1.05,0.494,-8.3,0
+FIRM-00098,Logistics,Quebec,221,0.634,2.21,0.153,6.5,
+FIRM-00099,Logistics,Ontario,262,0.731,5.56,0.57,0.6,
+FIRM-00100,Retail,British Columbia,58,0.456,5.58,0.07,0.0,1
+FIRM-00101,Healthcare,Quebec,1282,0.401,2.14,0.213,-13.9,0
+FIRM-00102,Healthcare,British Columbia,118,0.666,3.01,0.225,-5.2,0
+FIRM-00103,Energy,Ontario,64,0.092,3.56,0.426,0.3,0
+FIRM-00104,Retail,British Columbia,66,0.74,8.89,0.335,28.5,0
+FIRM-00105,Logistics,Ontario,59,0.533,0.12,0.54,6.4,
+FIRM-00106,Manufacturing,British Columbia,60,0.751,2.97,0.39,-7.4,0
+FIRM-00107,Logistics,Quebec,41,0.419,1.29,0.169,4.5,
+FIRM-00108,Manufacturing,British Columbia,197,0.591,1.75,0.339,-1.6,0
+FIRM-00109,Technology,Ontario,334,0.389,0.73,0.193,11.0,
+FIRM-00110,Manufacturing,Ontario,110,0.591,2.88,0.668,-20.0,0
+FIRM-00111,Healthcare,Ontario,637,0.367,1.5,0.98,0.1,0
+FIRM-00112,Retail,British Columbia,55,0.42,2.8,0.508,-36.0,0
+FIRM-00113,Technology,Alberta,81,0.482,1.26,0.397,-0.9,
+FIRM-00114,Energy,Ontario,53,0.411,7.27,0.553,36.3,0
+FIRM-00115,Manufacturing,British Columbia,241,0.393,1.21,0.559,-9.6,0
+FIRM-00116,Technology,Quebec,147,0.579,4.42,0.652,22.2,0
+FIRM-00117,Healthcare,Quebec,27,0.391,0.97,0.295,19.2,0
+FIRM-00118,Manufacturing,Quebec,25,0.591,2.76,0.477,-6.9,0
+FIRM-00119,Retail,Ontario,81,0.44,3.21,0.746,16.2,0
+FIRM-00120,Logistics,Ontario,203,0.533,1.45,0.132,31.7,0
+FIRM-00121,Retail,Alberta,113,0.324,1.68,0.214,16.9,0
+FIRM-00122,Manufacturing,Quebec,35,0.136,3.04,0.161,34.6,0
+FIRM-00123,Logistics,Ontario,144,0.353,6.68,0.223,-19.3,0
+FIRM-00124,Technology,Ontario,676,0.631,0.17,0.536,-27.1,1
+FIRM-00125,Technology,Ontario,606,0.58,2.5,0.767,5.4,
+FIRM-00126,Logistics,Atlantic,134,0.443,1.97,0.051,-0.5,1
+FIRM-00127,Retail,Alberta,141,0.634,1.88,0.339,24.4,0
+FIRM-00128,Technology,Ontario,87,0.783,2.24,0.242,-17.4,
+FIRM-00129,Logistics,Ontario,107,0.253,0.51,0.55,26.3,0
+FIRM-00130,Logistics,Quebec,394,0.332,4.63,0.21,-0.6,0
+FIRM-00131,Technology,Ontario,138,0.451,0.1,0.31,-15.8,1
+FIRM-00132,Manufacturing,Alberta,116,0.362,1.19,0.116,13.8,1
+FIRM-00133,Energy,Quebec,124,0.621,0.82,0.475,9.6,0
+FIRM-00134,Healthcare,Ontario,353,0.796,2.31,0.24,6.1,0
+FIRM-00135,Logistics,Quebec,329,0.314,0.88,0.43,-41.4,1
+FIRM-00136,Manufacturing,Ontario,27,0.495,4.83,0.39,2.8,0
+FIRM-00137,Healthcare,Ontario,216,0.499,0.9,0.327,17.4,0
+FIRM-00138,Technology,Ontario,471,0.611,1.38,0.204,25.5,1
+FIRM-00139,Manufacturing,Quebec,120,0.66,1.62,0.299,26.7,0
+FIRM-00140,Healthcare,Ontario,65,0.63,4.55,0.218,7.7,0
+FIRM-00141,Retail,British Columbia,49,0.641,3.02,0.13,-5.5,0
+FIRM-00142,Manufacturing,Ontario,79,0.404,0.97,0.674,34.2,
+FIRM-00143,Retail,British Columbia,118,0.371,1.74,0.224,-9.5,1
+FIRM-00144,Retail,British Columbia,60,0.634,2.22,0.54,28.8,0
+FIRM-00145,Manufacturing,Ontario,64,0.59,2.61,0.047,-3.7,1
+FIRM-00146,Energy,Ontario,23,0.556,1.5,0.131,23.3,0
+FIRM-00147,Energy,Alberta,562,0.207,0.57,0.346,-2.1,0
+FIRM-00148,Manufacturing,Atlantic,24,0.567,3.93,0.439,6.2,0
+FIRM-00149,Manufacturing,Ontario,593,0.17,4.23,0.626,-4.3,0
+FIRM-00150,Retail,Ontario,285,0.589,8.09,0.184,2.8,0
+FIRM-00151,Technology,British Columbia,464,0.782,1.18,0.98,-27.2,
+FIRM-00152,Retail,Ontario,445,0.301,4.04,0.885,32.4,0
+FIRM-00153,Manufacturing,Atlantic,202,0.444,1.31,0.761,10.9,0
+FIRM-00154,Retail,Ontario,64,0.59,3.12,0.577,-13.5,0
+FIRM-00155,Retail,British Columbia,147,0.607,2.68,0.8,21.3,0
+FIRM-00156,Retail,Alberta,176,0.597,3.43,0.62,9.0,
+FIRM-00157,Manufacturing,Ontario,151,0.533,0.17,0.168,21.3,0
+FIRM-00158,Manufacturing,Alberta,820,0.76,5.56,0.433,-11.0,0
+FIRM-00159,Manufacturing,Quebec,209,0.543,4.72,0.751,6.2,0
+FIRM-00160,Logistics,Ontario,58,0.272,6.26,0.456,-3.5,0
+FIRM-00161,Healthcare,Ontario,17,0.279,7.19,0.488,14.2,1
+FIRM-00162,Retail,Ontario,181,0.189,1.25,0.476,0.1,0
+FIRM-00163,Technology,Quebec,86,0.514,1.91,0.98,0.9,0
+FIRM-00164,Manufacturing,British Columbia,183,0.276,3.45,0.592,0.8,0
+FIRM-00165,Retail,British Columbia,30,0.585,0.68,0.98,37.5,0
+FIRM-00166,Technology,Ontario,83,0.495,2.9,0.46,39.5,
+FIRM-00167,Manufacturing,Quebec,270,0.342,2.19,0.143,5.8,0
+FIRM-00168,Retail,Ontario,713,0.527,3.62,0.281,21.1,0
+FIRM-00169,Manufacturing,Ontario,392,0.219,0.95,0.819,5.5,0
+FIRM-00170,Healthcare,Ontario,143,0.511,4.66,0.845,-1.4,0
+FIRM-00171,Logistics,Ontario,126,0.649,0.1,0.495,-0.8,0
+FIRM-00172,Retail,Alberta,15,0.703,0.63,0.68,33.4,
+FIRM-00173,Technology,Ontario,100,0.536,0.43,0.134,-0.2,
+FIRM-00174,Healthcare,Ontario,45,0.304,0.26,0.71,-6.0,0
+FIRM-00175,Manufacturing,British Columbia,220,0.393,1.81,0.372,6.0,0
+FIRM-00176,Manufacturing,British Columbia,146,0.5,0.78,0.25,38.7,0
+FIRM-00177,Manufacturing,Ontario,105,0.541,2.6,0.238,35.9,0
+FIRM-00178,Logistics,Quebec,96,0.32,1.74,0.528,5.0,0
+FIRM-00179,Logistics,British Columbia,399,0.184,2.23,0.196,7.0,0
+FIRM-00180,Manufacturing,Ontario,494,0.809,2.46,0.603,-1.8,0
+FIRM-00181,Retail,British Columbia,240,0.376,3.43,0.118,23.3,0
+FIRM-00182,Technology,Ontario,161,0.708,1.66,0.98,37.0,0
+FIRM-00183,Retail,Quebec,19,0.606,5.54,0.097,-12.9,
+FIRM-00184,Retail,Alberta,43,0.638,0.42,0.777,14.9,0
+FIRM-00185,Retail,Ontario,157,0.459,0.83,0.267,7.0,0
+FIRM-00186,Retail,Ontario,169,0.368,0.45,0.556,26.0,0
+FIRM-00187,Manufacturing,Ontario,60,0.535,1.5,0.134,0.7,
+FIRM-00188,Technology,Ontario,120,0.672,1.73,0.364,17.7,0
+FIRM-00189,Healthcare,Ontario,180,0.745,2.51,0.401,30.0,0
+FIRM-00190,Healthcare,Quebec,675,0.47,6.27,0.126,-16.9,
+FIRM-00191,Technology,British Columbia,223,0.584,1.74,0.351,0.1,0
+FIRM-00192,Energy,Alberta,200,0.543,0.15,0.168,-12.1,1
+FIRM-00193,Logistics,Quebec,91,0.497,7.65,0.251,3.8,0
+FIRM-00194,Technology,Ontario,33,0.342,1.62,0.929,7.3,0
+FIRM-00195,Logistics,Quebec,145,0.427,0.98,0.98,-14.1,1
+FIRM-00196,Healthcare,Ontario,347,0.409,1.41,0.188,6.3,0
+FIRM-00197,Technology,Quebec,162,0.355,0.26,0.332,4.6,
+FIRM-00198,Healthcare,Alberta,47,0.3,2.73,0.064,3.4,
+FIRM-00199,Retail,Quebec,326,0.703,0.48,0.771,-6.3,
+FIRM-00200,Logistics,Atlantic,325,0.42,2.02,0.041,-7.4,0
+FIRM-00201,Retail,British Columbia,328,0.283,4.99,0.1,3.6,0
+FIRM-00202,Healthcare,British Columbia,130,0.342,4.56,0.36,34.2,
+FIRM-00203,Healthcare,British Columbia,15,0.25,1.31,0.478,15.7,0
+FIRM-00204,Retail,British Columbia,196,0.576,1.34,0.464,40.8,0
+FIRM-00205,Retail,Quebec,57,0.605,7.14,0.549,12.9,0
+FIRM-00206,Manufacturing,Ontario,70,0.446,7.66,0.463,-26.3,0
+FIRM-00207,Logistics,Alberta,553,0.336,0.82,0.103,-8.6,0
+FIRM-00208,Energy,British Columbia,704,0.387,0.94,0.051,-14.2,0
+FIRM-00209,Manufacturing,Quebec,57,0.315,2.25,0.447,4.1,0
+FIRM-00210,Healthcare,British Columbia,110,0.091,3.41,0.545,-1.2,0
+FIRM-00211,Retail,Ontario,121,0.391,1.0,0.971,6.8,0
+FIRM-00212,Logistics,Quebec,23,0.405,2.58,0.089,5.1,
+FIRM-00213,Logistics,Ontario,90,0.432,0.81,0.394,29.6,0
+FIRM-00214,Manufacturing,Alberta,95,0.244,2.71,0.237,-15.4,0
+FIRM-00215,Healthcare,Alberta,105,0.405,0.86,0.249,-19.4,0
+FIRM-00216,Healthcare,Quebec,190,0.37,1.72,0.408,19.0,0
+FIRM-00217,Energy,Ontario,82,0.789,1.52,0.489,19.4,0
+FIRM-00218,Retail,Quebec,1067,0.511,1.73,0.256,-6.0,1
+FIRM-00219,Technology,Quebec,139,0.384,7.3,0.402,22.0,0
+FIRM-00220,Retail,Alberta,19,0.269,0.22,0.098,5.6,0
+FIRM-00221,Manufacturing,Ontario,147,0.235,14.12,0.17,-5.1,
+FIRM-00222,Retail,Atlantic,405,0.233,3.09,0.362,22.9,0
+FIRM-00223,Logistics,Ontario,46,0.244,2.05,0.442,9.6,0
+FIRM-00224,Manufacturing,Quebec,94,0.426,3.55,0.262,-11.3,0
+FIRM-00225,Manufacturing,Alberta,153,0.702,0.73,0.475,22.9,
+FIRM-00226,Manufacturing,Quebec,52,0.193,10.88,0.756,0.7,0
+FIRM-00227,Retail,Alberta,186,0.738,0.42,0.528,15.8,0
+FIRM-00228,Retail,Ontario,230,0.493,0.75,0.372,18.0,0
+FIRM-00229,Logistics,British Columbia,103,0.379,0.64,0.927,-14.7,0
+FIRM-00230,Healthcare,Alberta,306,0.512,4.34,0.733,14.5,0
+FIRM-00231,Technology,Alberta,691,0.557,2.18,0.458,34.0,0
+FIRM-00232,Retail,Quebec,893,0.71,4.38,0.394,-17.1,1
+FIRM-00233,Manufacturing,Alberta,28,0.351,0.42,0.769,15.9,
+FIRM-00234,Logistics,Quebec,197,0.147,1.67,0.377,19.3,1
+FIRM-00235,Logistics,Ontario,176,0.608,0.72,0.722,4.7,0
+FIRM-00236,Retail,Ontario,42,0.53,7.08,0.201,11.0,0
+FIRM-00237,Energy,Quebec,44,0.44,1.43,0.399,-6.9,0
+FIRM-00238,Logistics,Quebec,212,0.671,0.39,0.553,-13.2,0
+FIRM-00239,Technology,Ontario,131,0.102,1.4,0.219,18.6,0
+FIRM-00240,Energy,British Columbia,49,0.699,1.89,0.258,-4.0,1
+FIRM-00241,Retail,British Columbia,108,0.398,13.31,0.303,24.9,0
+FIRM-00242,Retail,Atlantic,41,0.333,1.01,0.531,3.4,0
+FIRM-00243,Healthcare,British Columbia,67,0.441,3.53,0.614,-0.4,0
+FIRM-00244,Manufacturing,Ontario,103,0.319,0.95,0.859,6.7,0
+FIRM-00245,Energy,British Columbia,90,0.519,3.03,0.687,-13.7,
+FIRM-00246,Logistics,Ontario,118,0.163,4.04,0.309,-6.9,0
+FIRM-00247,Logistics,Quebec,43,0.369,2.21,0.064,10.4,0
+FIRM-00248,Technology,Ontario,121,0.456,1.38,0.112,11.1,0
+FIRM-00249,Energy,Ontario,84,0.443,1.52,0.231,-17.5,0
+FIRM-00250,Retail,Quebec,1162,0.351,5.46,0.117,13.5,0
+FIRM-00251,Manufacturing,Ontario,81,0.345,0.35,0.98,-7.4,
+FIRM-00252,Energy,Quebec,191,0.762,1.8,0.389,-31.6,
+FIRM-00253,Technology,Ontario,17,0.083,0.93,0.357,24.0,
+FIRM-00254,Technology,Ontario,128,0.299,3.31,0.832,-13.4,0
+FIRM-00255,Retail,Atlantic,367,0.135,0.76,0.487,1.1,0
+FIRM-00256,Technology,Ontario,39,0.318,1.45,0.256,10.9,1
+FIRM-00257,Manufacturing,Alberta,69,0.477,3.0,0.285,7.3,
+FIRM-00258,Healthcare,Ontario,74,0.296,8.59,0.216,-10.5,0
+FIRM-00259,Energy,Alberta,135,0.784,3.64,0.98,1.3,0
+FIRM-00260,Healthcare,British Columbia,249,0.534,5.26,0.658,30.7,0
+FIRM-00261,Logistics,Quebec,64,0.438,1.01,0.615,31.6,0
+FIRM-00262,Retail,Ontario,41,0.336,1.57,0.586,0.0,0
+FIRM-00263,Logistics,Quebec,79,0.336,1.57,0.367,24.6,0
+FIRM-00264,Energy,Ontario,277,0.313,3.19,0.304,24.9,0
+FIRM-00265,Logistics,Alberta,98,0.344,16.0,0.589,-40.5,0
+FIRM-00266,Healthcare,Ontario,64,0.673,2.84,0.126,7.2,
+FIRM-00267,Logistics,Ontario,159,0.32,5.0,0.146,14.3,0
+FIRM-00268,Technology,Quebec,384,0.476,0.97,0.344,17.2,0
+FIRM-00269,Retail,Ontario,209,0.143,1.31,0.509,1.0,0
+FIRM-00270,Energy,British Columbia,145,0.621,4.39,0.324,8.8,1
+FIRM-00271,Retail,Atlantic,19,0.74,0.6,0.297,12.6,0
+FIRM-00272,Healthcare,Ontario,53,0.462,13.81,0.807,29.3,0
+FIRM-00273,Healthcare,Ontario,43,0.388,1.38,0.302,5.6,
+FIRM-00274,Energy,British Columbia,135,0.835,3.03,0.137,33.2,0
+FIRM-00275,Retail,Ontario,220,0.522,1.07,0.35,25.3,0
+FIRM-00276,Healthcare,Quebec,39,0.319,2.57,0.29,-5.3,0
+FIRM-00277,Retail,Quebec,26,0.389,2.09,0.112,-9.8,0
+FIRM-00278,Technology,British Columbia,346,0.664,1.02,0.282,15.8,0
+FIRM-00279,Logistics,Quebec,298,0.57,3.13,0.447,-8.1,1
+FIRM-00280,Technology,Ontario,220,0.773,2.36,0.73,-10.0,0
+FIRM-00281,Technology,British Columbia,40,0.527,1.78,0.388,23.6,0
+FIRM-00282,Retail,British Columbia,27,0.84,0.78,0.46,-6.4,1
+FIRM-00283,Healthcare,Atlantic,57,0.345,2.81,0.106,18.5,0
+FIRM-00284,Manufacturing,Ontario,82,0.374,0.74,0.283,-13.5,0
+FIRM-00285,Manufacturing,Alberta,46,0.771,1.92,0.307,7.7,0
+FIRM-00286,Technology,Quebec,125,0.437,0.32,0.357,-0.8,0
+FIRM-00287,Retail,Quebec,291,0.767,2.8,0.301,13.7,0
+FIRM-00288,Energy,Ontario,15,0.441,4.06,0.279,-17.3,0
+FIRM-00289,Retail,Ontario,131,0.604,0.31,0.106,-7.9,
+FIRM-00290,Healthcare,Ontario,49,0.613,0.81,0.249,-8.2,0
+FIRM-00291,Technology,Ontario,93,0.442,3.7,0.707,1.1,0
+FIRM-00292,Technology,British Columbia,280,0.428,2.52,0.04,-11.8,
+FIRM-00293,Retail,Quebec,99,0.215,1.59,0.516,-22.9,0
+FIRM-00294,Retail,Alberta,749,0.906,1.03,0.062,-3.8,1
+FIRM-00295,Logistics,Atlantic,157,0.272,1.3,0.053,1.2,0
+FIRM-00296,Technology,Ontario,46,0.492,1.03,0.465,4.7,0
+FIRM-00297,Manufacturing,Quebec,65,0.56,4.19,0.289,-17.6,0
+FIRM-00298,Healthcare,Alberta,19,0.341,0.76,0.749,34.7,0
+FIRM-00299,Logistics,Quebec,341,0.77,2.51,0.674,5.3,1
+FIRM-00300,Logistics,Ontario,77,0.652,4.68,0.154,24.1,0
+FIRM-00301,Retail,British Columbia,49,0.508,0.66,0.15,-18.3,
+FIRM-00302,Manufacturing,Quebec,280,0.657,9.51,0.465,9.6,
+FIRM-00303,Healthcare,Quebec,118,0.388,0.42,0.25,-0.7,
+FIRM-00304,Logistics,Quebec,1128,0.623,2.27,0.408,9.7,0
+FIRM-00305,Energy,Atlantic,85,0.823,2.7,0.602,5.6,0
+FIRM-00306,Logistics,Alberta,416,0.17,1.29,0.631,2.4,0
+FIRM-00307,Retail,Quebec,56,0.462,5.08,0.814,0.7,0
+FIRM-00308,Retail,Atlantic,57,0.847,0.8,0.735,7.3,0
+FIRM-00309,Technology,Quebec,161,0.471,9.37,0.281,28.4,0
+FIRM-00310,Healthcare,Quebec,113,0.284,6.06,0.342,14.6,0
+FIRM-00311,Retail,Quebec,39,0.914,3.59,0.328,-2.3,0
+FIRM-00312,Energy,Quebec,151,0.626,1.36,0.495,-2.8,0
+FIRM-00313,Energy,Ontario,49,0.467,5.02,0.485,14.1,0
+FIRM-00314,Retail,Ontario,45,0.644,3.37,0.338,25.6,0
+FIRM-00315,Healthcare,British Columbia,298,0.595,1.53,0.376,16.4,0
+FIRM-00316,Healthcare,Ontario,158,0.253,1.84,0.289,-6.4,0
+FIRM-00317,Retail,Quebec,222,0.565,1.02,0.388,1.7,0
+FIRM-00318,Retail,Alberta,32,0.236,1.68,0.374,22.8,0
+FIRM-00319,Retail,Atlantic,45,0.361,1.0,0.437,29.9,0
+FIRM-00320,Healthcare,Atlantic,194,0.346,2.75,0.711,-11.8,
+FIRM-00321,Healthcare,Ontario,120,0.287,2.49,0.562,1.3,0
+FIRM-00322,Technology,Ontario,716,0.336,3.03,0.45,-5.2,1
+FIRM-00323,Manufacturing,Quebec,136,0.344,9.21,0.933,-4.4,
+FIRM-00324,Energy,Ontario,255,0.448,2.04,0.517,25.7,
+FIRM-00325,Healthcare,Quebec,459,0.581,1.81,0.672,-32.9,0
+FIRM-00326,Energy,Ontario,17,0.374,4.75,0.956,14.7,0
+FIRM-00327,Retail,Ontario,47,0.76,0.47,0.279,-27.1,1
+FIRM-00328,Logistics,Atlantic,60,0.833,0.17,0.253,15.0,0
+FIRM-00329,Manufacturing,British Columbia,544,0.319,1.83,0.785,-19.4,0
+FIRM-00330,Technology,Quebec,44,0.627,1.23,0.557,19.3,0
+FIRM-00331,Healthcare,Ontario,17,0.448,0.63,0.615,12.2,0
+FIRM-00332,Logistics,Ontario,121,0.425,5.3,0.399,12.1,0
+FIRM-00333,Healthcare,Ontario,135,0.462,1.35,0.932,0.0,
+FIRM-00334,Manufacturing,Atlantic,41,0.614,0.67,0.775,-0.8,0
+FIRM-00335,Retail,Ontario,175,0.42,8.63,0.289,-50.4,
+FIRM-00336,Retail,British Columbia,60,0.334,5.22,0.4,17.5,0
+FIRM-00337,Retail,British Columbia,370,0.78,1.32,0.841,-5.0,0
+FIRM-00338,Technology,Ontario,937,0.342,1.9,0.614,8.7,
+FIRM-00339,Energy,Alberta,107,0.258,7.58,0.464,-7.0,0
+FIRM-00340,Technology,British Columbia,39,0.695,0.61,0.667,12.0,0
+FIRM-00341,Technology,Ontario,81,0.677,0.82,0.972,4.6,0
+FIRM-00342,Energy,Ontario,326,0.304,1.01,0.98,16.9,0
+FIRM-00343,Technology,Ontario,406,0.107,2.84,0.159,11.6,0
+FIRM-00344,Manufacturing,Ontario,208,0.617,2.37,0.247,-6.8,
+FIRM-00345,Retail,Ontario,61,0.181,2.86,0.533,-7.1,0
+FIRM-00346,Technology,Ontario,146,0.606,1.81,0.302,18.3,0
+FIRM-00347,Healthcare,Ontario,100,0.624,0.58,0.57,33.5,1
+FIRM-00348,Technology,British Columbia,159,0.095,2.9,0.327,-3.5,0
+FIRM-00349,Manufacturing,Ontario,55,0.456,0.4,0.81,11.9,0
+FIRM-00350,Healthcare,Atlantic,172,0.644,0.24,0.482,2.6,0
+FIRM-00351,Technology,Atlantic,92,0.359,3.0,0.325,6.0,1
+FIRM-00352,Healthcare,Atlantic,47,0.362,0.6,0.205,-10.2,0
+FIRM-00353,Manufacturing,Ontario,37,0.366,1.0,0.421,-28.6,
+FIRM-00354,Retail,British Columbia,178,0.414,2.41,0.083,4.8,
+FIRM-00355,Retail,British Columbia,31,0.256,3.24,0.517,-5.9,0
+FIRM-00356,Manufacturing,Ontario,177,0.839,2.1,0.411,16.4,0
+FIRM-00357,Retail,British Columbia,27,0.497,0.97,0.483,-25.4,1
+FIRM-00358,Retail,Alberta,152,0.438,2.22,0.031,3.4,0
+FIRM-00359,Logistics,Ontario,154,0.605,0.1,0.592,16.4,0
+FIRM-00360,Retail,Quebec,426,0.149,0.94,0.55,21.7,0
+FIRM-00361,Healthcare,Quebec,98,0.792,7.27,0.29,11.4,0
+FIRM-00362,Retail,British Columbia,202,0.446,6.91,0.586,25.8,0
+FIRM-00363,Healthcare,Ontario,91,0.158,2.64,0.511,8.3,0
+FIRM-00364,Technology,Ontario,104,0.696,0.74,0.455,-8.4,0
+FIRM-00365,Retail,Ontario,358,0.21,7.38,0.123,10.7,0
+FIRM-00366,Manufacturing,Alberta,194,0.764,1.43,0.225,5.4,0
+FIRM-00367,Logistics,British Columbia,33,0.773,1.03,0.535,4.0,1
+FIRM-00368,Manufacturing,Ontario,86,0.557,1.0,0.472,45.1,0
+FIRM-00369,Retail,Atlantic,174,0.428,1.2,0.451,-0.9,0
+FIRM-00370,Logistics,Ontario,32,0.554,11.06,0.98,19.2,0
+FIRM-00371,Healthcare,Quebec,457,0.467,0.38,0.172,-18.4,1
+FIRM-00372,Healthcare,British Columbia,105,0.783,16.0,0.524,0.5,0
+FIRM-00373,Retail,Ontario,746,0.744,3.79,0.619,-5.0,0
+FIRM-00374,Manufacturing,Atlantic,273,0.635,3.74,0.297,7.4,0
+FIRM-00375,Retail,Ontario,96,0.43,0.77,0.668,-12.9,0
+FIRM-00376,Energy,Ontario,136,0.447,1.75,0.629,-16.6,
+FIRM-00377,Logistics,British Columbia,239,0.225,0.89,0.586,-1.3,0
+FIRM-00378,Technology,Quebec,288,0.763,2.06,0.373,-15.0,
+FIRM-00379,Manufacturing,British Columbia,244,0.217,5.12,0.157,-1.5,
+FIRM-00380,Technology,Ontario,59,0.391,2.24,0.206,23.6,0
+FIRM-00381,Retail,British Columbia,76,0.541,0.34,0.027,4.2,
+FIRM-00382,Retail,Quebec,143,0.49,4.02,0.656,44.4,0
+FIRM-00383,Manufacturing,Alberta,191,0.132,1.4,0.316,23.8,0
+FIRM-00384,Logistics,Atlantic,87,0.39,2.18,0.606,-4.5,0
+FIRM-00385,Energy,Quebec,428,0.783,0.81,0.859,-20.9,0
+FIRM-00386,Technology,British Columbia,273,0.496,1.77,0.646,12.5,0
+FIRM-00387,Manufacturing,Ontario,135,0.253,8.94,0.211,25.8,0
+FIRM-00388,Healthcare,Alberta,379,0.724,0.1,0.9,9.0,0
+FIRM-00389,Healthcare,Quebec,84,0.577,0.36,0.674,28.9,0
+FIRM-00390,Logistics,Quebec,88,0.423,1.0,0.133,20.5,0
+FIRM-00391,Retail,Ontario,111,0.367,0.31,0.478,-13.7,0
+FIRM-00392,Technology,Quebec,498,0.844,3.66,0.085,12.3,0
+FIRM-00393,Manufacturing,Ontario,16,0.753,3.49,0.583,-17.6,0
+FIRM-00394,Manufacturing,British Columbia,90,0.458,4.39,0.132,-13.8,0
+FIRM-00395,Manufacturing,Atlantic,66,0.57,12.04,0.449,5.4,0
+FIRM-00396,Logistics,Ontario,115,0.171,1.39,0.064,-22.6,0
+FIRM-00397,Technology,Quebec,88,0.613,0.45,0.375,4.6,1
+FIRM-00398,Healthcare,Quebec,180,0.324,1.15,0.251,0.2,0
+FIRM-00399,Energy,Ontario,627,0.693,0.83,0.265,7.7,1
+FIRM-00400,Retail,Ontario,444,0.441,1.6,0.361,11.2,
+FIRM-00401,Manufacturing,British Columbia,44,0.439,1.81,0.755,12.2,0
+FIRM-00402,Technology,Atlantic,120,0.212,0.64,0.179,-3.0,
+FIRM-00403,Healthcare,Ontario,353,0.582,1.55,0.799,-22.6,
+FIRM-00404,Logistics,Quebec,98,0.71,2.85,0.286,-0.5,0
+FIRM-00405,Manufacturing,Ontario,88,0.371,2.33,0.586,14.3,
+FIRM-00406,Energy,Quebec,53,0.558,0.76,0.415,-4.9,
+FIRM-00407,Healthcare,Ontario,140,0.61,2.01,0.315,6.4,0
+FIRM-00408,Healthcare,Quebec,259,0.444,12.54,0.478,-9.4,0
+FIRM-00409,Retail,Ontario,96,0.25,12.3,0.594,-2.6,0
+FIRM-00410,Manufacturing,Ontario,162,0.207,0.4,0.135,1.1,
+FIRM-00411,Logistics,Quebec,230,0.374,1.08,0.065,-8.3,
+FIRM-00412,Energy,British Columbia,26,0.487,1.51,0.029,-2.7,
+FIRM-00413,Healthcare,Alberta,596,0.637,1.58,0.94,-0.7,0
+FIRM-00414,Healthcare,Ontario,448,0.408,0.55,0.312,14.6,
+FIRM-00415,Logistics,Quebec,156,0.253,3.04,0.575,9.7,0
+FIRM-00416,Manufacturing,British Columbia,67,0.788,0.13,0.357,12.7,0
+FIRM-00417,Retail,Quebec,64,0.658,1.8,0.266,16.4,0
+FIRM-00418,Technology,British Columbia,102,0.392,0.97,0.941,-29.7,0
+FIRM-00419,Retail,British Columbia,159,0.174,6.2,0.87,13.7,
+FIRM-00420,Technology,Alberta,62,0.352,4.44,0.152,-14.0,0
+FIRM-00421,Healthcare,Ontario,67,0.59,0.94,0.122,-5.3,0
+FIRM-00422,Logistics,Alberta,334,0.584,1.18,0.898,-34.4,0
+FIRM-00423,Healthcare,Ontario,312,0.387,3.14,0.344,-22.3,0
+FIRM-00424,Retail,Ontario,119,0.758,5.6,0.224,4.0,1
+FIRM-00425,Logistics,Quebec,47,0.48,2.83,0.311,11.2,0
+FIRM-00426,Manufacturing,Ontario,100,0.611,0.84,0.543,3.7,0
+FIRM-00427,Technology,Ontario,76,0.323,2.18,0.473,-6.6,
+FIRM-00428,Logistics,Quebec,816,0.447,0.49,0.066,-2.7,0
+FIRM-00429,Healthcare,Ontario,937,0.322,1.45,0.491,22.7,
+FIRM-00430,Retail,British Columbia,73,0.473,2.77,0.425,3.7,
+FIRM-00431,Technology,Quebec,195,0.776,2.59,0.115,-29.3,1
+FIRM-00432,Healthcare,British Columbia,140,0.428,0.18,0.896,-9.4,0
+FIRM-00433,Logistics,Ontario,424,0.595,2.74,0.429,8.8,0
+FIRM-00434,Energy,Ontario,100,0.537,0.82,0.141,17.4,0
+FIRM-00435,Logistics,Ontario,56,0.391,1.13,0.679,5.7,0
+FIRM-00436,Manufacturing,Quebec,100,0.295,1.81,0.195,-23.0,0
+FIRM-00437,Retail,Quebec,315,0.799,6.49,0.182,36.1,0
+FIRM-00438,Logistics,Ontario,104,0.306,2.34,0.217,2.2,0
+FIRM-00439,Technology,Ontario,66,0.736,2.22,0.347,20.3,0
+FIRM-00440,Healthcare,Quebec,183,0.741,5.53,0.979,-20.2,1
+FIRM-00441,Healthcare,British Columbia,227,0.186,11.23,0.42,8.7,0
+FIRM-00442,Energy,Quebec,149,0.521,1.43,0.531,24.8,0
+FIRM-00443,Manufacturing,Ontario,89,0.33,3.04,0.403,14.2,0
+FIRM-00444,Healthcare,Quebec,39,0.423,0.1,0.962,1.3,0
+FIRM-00445,Retail,Ontario,95,0.359,1.33,0.586,-3.1,1
+FIRM-00446,Healthcare,Alberta,1092,0.47,0.76,0.267,8.1,0
+FIRM-00447,Healthcare,Ontario,99,0.546,1.23,0.037,2.8,0
+FIRM-00448,Energy,Atlantic,1227,0.715,4.29,0.189,-14.9,1
+FIRM-00449,Logistics,British Columbia,85,0.424,0.58,0.747,0.2,0
+FIRM-00450,Retail,Ontario,81,0.676,4.46,0.05,6.9,0
+FIRM-00451,Retail,Ontario,19,0.901,4.51,0.178,14.9,0
+FIRM-00452,Technology,Atlantic,159,0.391,6.35,0.883,27.0,0
+FIRM-00453,Manufacturing,Ontario,166,0.1,1.91,0.336,0.1,0
+FIRM-00454,Manufacturing,British Columbia,28,0.173,1.07,0.343,-13.3,0
+FIRM-00455,Retail,British Columbia,77,0.665,2.14,0.166,-7.4,1
+FIRM-00456,Technology,Alberta,36,0.469,1.09,0.98,6.2,0
+FIRM-00457,Technology,Ontario,65,0.283,1.18,0.262,8.0,0
+FIRM-00458,Energy,Ontario,102,0.31,0.91,0.406,-10.8,0
+FIRM-00459,Logistics,Ontario,57,0.301,2.6,0.128,27.3,
+FIRM-00460,Technology,Quebec,127,0.673,2.33,0.418,-22.1,1
+FIRM-00461,Healthcare,Quebec,267,0.101,0.62,0.759,18.0,
+FIRM-00462,Manufacturing,Alberta,173,0.174,3.67,0.717,37.1,
+FIRM-00463,Manufacturing,Alberta,103,0.814,0.97,0.947,-1.6,1
+FIRM-00464,Retail,Ontario,55,0.529,4.89,0.173,12.1,0
+FIRM-00465,Technology,Ontario,49,0.457,0.38,0.099,24.3,0
+FIRM-00466,Manufacturing,Quebec,179,0.726,2.42,0.789,3.4,0
+FIRM-00467,Manufacturing,British Columbia,448,0.578,0.1,0.653,32.5,
+FIRM-00468,Technology,Alberta,74,0.576,1.36,0.344,23.3,
+FIRM-00469,Manufacturing,Quebec,54,0.433,0.74,0.551,-3.5,0
+FIRM-00470,Retail,Quebec,172,0.382,1.4,0.247,2.3,0
+FIRM-00471,Technology,Ontario,83,0.571,1.0,0.346,3.2,0
+FIRM-00472,Manufacturing,Alberta,231,0.213,1.86,0.599,15.1,0
+FIRM-00473,Logistics,Quebec,50,0.372,2.07,0.091,-9.8,1
+FIRM-00474,Manufacturing,Ontario,94,0.375,2.98,0.517,9.3,0
+FIRM-00475,Energy,Ontario,191,0.442,0.77,0.205,17.4,0
+FIRM-00476,Retail,Alberta,210,0.476,2.21,0.453,20.7,0
+FIRM-00477,Technology,Alberta,187,0.438,1.06,0.314,11.4,0
+FIRM-00478,Manufacturing,Ontario,354,0.167,1.57,0.98,29.5,0
+FIRM-00479,Energy,Ontario,82,0.702,1.19,0.203,-6.7,0
+FIRM-00480,Retail,Ontario,76,0.387,3.43,0.516,-17.5,0
+FIRM-00481,Manufacturing,Ontario,251,0.591,1.43,0.98,-6.9,0
+FIRM-00482,Logistics,Quebec,59,0.167,0.76,0.281,29.3,
+FIRM-00483,Retail,Quebec,175,0.797,4.97,0.212,18.4,0
+FIRM-00484,Healthcare,Ontario,46,0.449,1.07,0.962,-1.8,0
+FIRM-00485,Healthcare,Quebec,166,0.167,1.89,0.37,-9.5,0
+FIRM-00486,Technology,Quebec,37,0.48,0.31,0.839,12.3,0
+FIRM-00487,Retail,Ontario,33,0.523,1.08,0.8,-5.7,0
+FIRM-00488,Manufacturing,Alberta,354,0.652,1.29,0.942,-19.3,
+FIRM-00489,Manufacturing,Ontario,228,0.825,1.6,0.438,-19.6,0
+FIRM-00490,Healthcare,Ontario,133,0.6,0.71,0.748,7.8,0
+FIRM-00491,Energy,Quebec,327,0.631,3.22,0.397,-11.4,0
+FIRM-00492,Energy,Ontario,593,0.495,2.09,0.552,11.0,
+FIRM-00493,Retail,Ontario,249,0.455,1.61,0.379,12.1,0
+FIRM-00494,Manufacturing,Ontario,67,0.639,3.33,0.331,20.6,
+FIRM-00495,Logistics,Ontario,507,0.329,3.82,0.437,1.2,0
+FIRM-00496,Retail,Ontario,107,0.491,8.49,0.374,-7.0,0
+FIRM-00497,Energy,Quebec,131,0.464,1.54,0.361,-3.3,0
+FIRM-00498,Retail,Quebec,220,0.079,2.97,0.1,1.5,
+FIRM-00499,Retail,Quebec,18,0.28,2.64,0.693,10.9,0
+FIRM-00500,Retail,Ontario,933,0.146,2.71,0.859,-16.7,
+FIRM-00501,Technology,Ontario,137,0.308,5.54,0.317,-8.4,0
+FIRM-00502,Logistics,Alberta,84,0.341,1.0,0.531,-7.2,0
+FIRM-00503,Healthcare,Ontario,61,0.249,2.54,0.24,-25.4,0
+FIRM-00504,Technology,Alberta,52,0.605,5.8,0.643,18.7,
+FIRM-00505,Healthcare,Ontario,335,0.443,1.37,0.344,16.2,0
+FIRM-00506,Logistics,Ontario,346,0.749,0.47,0.231,0.9,
+FIRM-00507,Manufacturing,Ontario,92,0.568,1.43,0.075,-5.7,0
+FIRM-00508,Technology,British Columbia,117,0.512,1.15,0.277,-18.8,
+FIRM-00509,Healthcare,Ontario,26,0.151,9.23,0.185,32.6,0
+FIRM-00510,Manufacturing,Ontario,115,0.602,6.9,0.266,-4.2,1
+FIRM-00511,Retail,British Columbia,18,0.087,0.16,0.575,18.6,0
+FIRM-00512,Technology,Ontario,36,0.58,5.04,0.682,-17.2,
+FIRM-00513,Technology,Ontario,734,0.612,1.79,0.231,-7.5,0
+FIRM-00514,Manufacturing,Ontario,73,0.333,1.55,0.858,-17.5,0
+FIRM-00515,Retail,Quebec,619,0.424,0.12,0.778,7.6,
+FIRM-00516,Manufacturing,British Columbia,133,0.692,6.27,0.47,4.5,0
+FIRM-00517,Retail,Ontario,117,0.323,5.97,0.276,4.4,0
+FIRM-00518,Logistics,Quebec,118,0.565,2.92,0.612,-7.9,0
+FIRM-00519,Manufacturing,Ontario,40,0.295,1.15,0.562,17.9,0
+FIRM-00520,Technology,Ontario,114,0.382,1.09,0.794,13.5,0

@@ -3,3 +3,9 @@ __pycache__/
 *.pyc
 .DS_Store
 .ipynb_checkpoints/
+*.egg-info/
+build/
+dist/
+
+# Keep model checkpoints local; provision them separately on each machine.
+src/tabular_inference_prototype/model_weights/*.ckpt
