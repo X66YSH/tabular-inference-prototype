@@ -9,3 +9,5 @@ dist/
 
 # Keep model checkpoints local; provision them separately on each machine.
 src/tabular_inference_prototype/model_weights/*.ckpt
+
+**/node_modules/

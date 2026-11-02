@@ -1,3 +1,4 @@
+# model.py
 from pathlib import Path
 
 from tabicl import TabICLClassifier, TabICLRegressor
